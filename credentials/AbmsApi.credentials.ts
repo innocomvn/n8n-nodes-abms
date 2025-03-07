@@ -4,7 +4,7 @@ import {
 } from 'n8n-workflow';
 
 export class AbmsApi implements ICredentialType {
-	name = 'AbmsApi';
+	name = 'abmsApi';
 	displayName = 'ABMS Credentials API';
 	properties: INodeProperties[] = [
 		{
