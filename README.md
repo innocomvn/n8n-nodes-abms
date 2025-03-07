@@ -2,7 +2,7 @@
 
 # n8n-nodes-abms
 
-This repo contains nodes for [ABMS](https://www.abms.co/). It includes the node linter and other dependencies.
+This repo contains nodes for [ABMS](https://abms.co/). It includes the node linter and other dependencies.
 
 ## Prerequisites
 
